@@ -13,13 +13,12 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        final Handler handler = new Handler();
-        final Runnable r = new Runnable() {
+        new Handler().postDelayed(new Runnable() {
+            @Override
             public void run() {
-                handler.postDelayed(this, 1000);
-                Intent intent = new Intent();
+                Intent intent = new Intent(MainActivity.this,DashboardActivity.class);
             }
-        };
+        },1500);
 
     }
 }
