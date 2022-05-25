@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Quiz-App/app/src/main/res/drawable/empty_back.xml" value="0.2703125" />
         <entry key="..\:/Quiz-App/app/src/main/res/drawable/next_btn.xml" value="0.2703125" />
+        <entry key="..\:/Quiz-App/app/src/main/res/drawable/time_out_btn.xml" value="0.2703125" />
         <entry key="..\:/Quiz-App/app/src/main/res/layout/activity_dashboard.xml" value="0.264" />
         <entry key="..\:/Quiz-App/app/src/main/res/layout/activity_main.xml" value="0.25025641025641027" />
+        <entry key="..\:/Quiz-App/app/src/main/res/layout/activity_time_out.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

@@ -17,4 +17,13 @@
     <style name="Progressbar" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <item name="colorSecondary">@color/teal_200</item>
     </style>
+
+    <style name="Dialog">
+
+        <item name="android:windowBackground">@drawable/empty_back</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowMinWidthMajor">80%</item>
+        <item name="windowActionBar">false</item>
+
+    </style>
 </resources>
