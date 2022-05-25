@@ -41,7 +41,7 @@
         android:indeterminate="false"
         android:maxHeight="15dp"
         android:minHeight="15dp"
-        android:progress="10"
+        android:progress="15"
         app:indicatorColor="#FFFF33"
         android:max="20"/>
 
