@@ -31,7 +31,7 @@ public class DashboardActivity extends AppCompatActivity {
             }
 
             @Override
-            
+
             public void onFinish() {
                 Dialog dialog = new Dialog(DashboardActivity.this,R.style.Dialog);
                 dialog.setContentView(R.layout.activity_time_out);
